@@ -70,4 +70,5 @@ const CreatePage = () => {
 		</Container>
 	);
 };
+
 export default CreatePage;
